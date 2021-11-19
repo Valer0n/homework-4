@@ -1,0 +1,25 @@
+* {
+  background-color: rgb(18, 17, 22);
+  color: white;
+}
+.container {
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  margin-right: 525px;
+  margin-left: 495px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.text {
+  color: rgb(0, 199, 252);
+}
